@@ -1,7 +1,7 @@
 #snow_record variables
 sn_username: admin
 sn_password: admin
-sn_instance: https://dev165804.service-now.com/now/appenginestudio/template
+sn_instance: https://dev165804.service-now.com/x/1049276/srse/home/params/sys-id/300ea939a266e110aeb9fcf0cbbc5dd2
 
 #data variables
 
